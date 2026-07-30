@@ -1,0 +1,16 @@
+ID_Funcionario,Nome,Departamento,Cargo,Idade,Salario,Vendas_Mes,Meta_Alcancada,Horas_Extras,Data_Admissao
+101,Ana Silva,Vendas,Senior,34,8500,125000,Sim,12,2018-03-15
+102,Carlos Santos,Vendas,Pleno,28,5200,87000,Nao,8,2020-10-07
+103,Mariana Costa,Marketing,Senior,41,9200,45000,Sim,5,2015-02-01
+104,João Pereira,TI,Junior,23,3800,32000,Nao,15,2022-11-20
+105,Fernanda Lima,TI,Pleno,29,5800,56000,Sim,20,2019-05-05
+106,Roberto Alves,Vendas,Junior,22,3500,65000,Nao,10,2023-12-08
+107,Patrícia Souza,Marketing,Pleno,33,6200,38000,Sim,3,2020-09-18
+108,Lucas Oliveira,TI,Senior,37,10500,89000,Sim,25,2016-11-22
+109,Camila Rocha,Vendas,Pleno,30,5600,95000,Sim,14,2021-04-30
+110,André Ferreira,Marketing,Junior,24,3200,28000,Nao,2,2023-05-01
+111,Beatriz Martins,TI,Pleno,31,6100,72000,Sim,18,2019-06-14
+112,Daniel Costa,Vendas,Senior,45,9800,142000,Sim,6,2014-10-10
+113,Elisa Nunes,Marketing,Senior,39,8800,42000,Sim,4,2017-03-25
+114,Felipe Gomes,TI,Junior,25,3600,45000,Nao,12,2022-08-02
+115,Gabriela Dias,Vendas,Pleno,27,4900,78000,Sim,9,2020-11-17
