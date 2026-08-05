@@ -1,0 +1,6 @@
+,id,name,department,salary,active
+0,1,Alice,Sales,50000,True
+1,2,Bob,Sales,55000,True
+2,3,Carol,HR,48000,False
+3,4,Dan,HR,62000,True
+4,5,Eve,IT,70000,True
