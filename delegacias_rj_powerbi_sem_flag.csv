@@ -1,0 +1,43 @@
+cisp,nome_dp,municipio,regiao,roubo_veiculo
+1,001 DP - Praça da República,Rio de Janeiro,Capital,232
+4,004 DP - Praça da República,Rio de Janeiro,Capital,203
+5,005 DP - Mem de Sá,Rio de Janeiro,Capital,239
+9,009 DP - Catete,Rio de Janeiro,Capital,278
+12,012 DP - Copacabana,Rio de Janeiro,Capital,199
+16,016 DP - Barra da Tijuca,Rio de Janeiro,Capital,199
+19,019 DP - Tijuca,Rio de Janeiro,Capital,281
+21,021 DP - Bonsucesso,Rio de Janeiro,Capital,244
+22,022 DP - Penha,Rio de Janeiro,Capital,188
+27,027 DP - Vicente de Carvalho,Rio de Janeiro,Capital,234
+35,035 DP - Campo Grande,Rio de Janeiro,Capital,189
+41,041 DP - Madureira,Rio de Janeiro,Capital,189
+54,054 DP - Belford Roxo,Belford Roxo,Baixada Fluminense,332
+59,059 DP - Duque de Caxias,Duque de Caxias,Baixada Fluminense,224
+60,060 DP - Campos Elíseos,Duque de Caxias,Baixada Fluminense,233
+61,061 DP - Xerém,Duque de Caxias,Baixada Fluminense,291
+62,062 DP - Imbariê,Duque de Caxias,Baixada Fluminense,269
+52,052 DP - Nova Iguaçu,Nova Iguaçu,Baixada Fluminense,335
+53,053 DP - Mesquita,Mesquita,Baixada Fluminense,274
+55,055 DP - Queimados,Queimados,Baixada Fluminense,249
+56,056 DP - Comendador Soares,Nova Iguaçu,Baixada Fluminense,393
+57,057 DP - Nilópolis,Nilópolis,Baixada Fluminense,308
+58,058 DP - Posse,Nova Iguaçu,Baixada Fluminense,323
+64,064 DP - São João de Meriti,São João de Meriti,Baixada Fluminense,248
+71,071 DP - Itaboraí,Itaboraí,Leste Fluminense,140
+72,072 DP - São Gonçalo,São Gonçalo,Leste Fluminense,163
+73,073 DP - Neves,São Gonçalo,Leste Fluminense,119
+74,074 DP - Alcântara,São Gonçalo,Leste Fluminense,173
+76,076 DP - Niterói,Niterói,Leste Fluminense,138
+77,077 DP - Icaraí,Niterói,Leste Fluminense,149
+78,078 DP - Fonseca,Niterói,Leste Fluminense,138
+79,079 DP - Jurujuba,Niterói,Leste Fluminense,224
+82,082 DP - Maricá,Maricá,Leste Fluminense,159
+88,088 DP - Barra do Piraí,Barra do Piraí,Sul Fluminense,14
+90,090 DP - Barra Mansa,Barra Mansa,Sul Fluminense,33
+93,093 DP - Volta Redonda,Volta Redonda,Sul Fluminense,12
+105,105 DP - Petrópolis,Petrópolis,Região Serrana,27
+106,106 DP - Itaipava,Petrópolis,Região Serrana,5
+110,110 DP - Teresópolis,Teresópolis,Região Serrana,11
+126,126 DP - Cabo Frio,Cabo Frio,Baixada Litorânea,67
+127,127 DP - Armação de Búzios,Armação de Búzios,Baixada Litorânea,76
+134,134 DP - Campos dos Goytacazes,Campos dos Goytacazes,Norte Fluminense,26
