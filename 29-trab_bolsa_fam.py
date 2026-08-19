@@ -2,9 +2,9 @@
 import polars as pl
 #import time
 
-df = pl.read_csv(r"c:\Users\esther.naveira\Documents\bolsa_familia\202601_NovoBolsaFamilia_utf8.csv", separator=';')
-df.write_parquet(r"c:\Users\esther.naveira\Documents\bolsa_familia\Trab__NovoBolsaFamilia_utf8_lazy.parquet" )
-df = pl.scan_parquet(r"c:\Users\esther.naveira\Documents\bolsa_familia\Trab__NovoBolsaFamilia_utf8_lazy.parquet")
+df = pl.read_csv(r"c:\Users\esthe\OneDrive\Documentos\Esther\Apostilas\analise dados-senac\bolsa_familia\202601_NovoBolsaFamilia_utf8.csv", separator=';')
+df.write_parquet(r"c:\Users\esthe\OneDrive\Documentos\Esther\Apostilas\analise dados-senac\bolsa_familia\Trab__NovoBolsaFamilia_utf8_lazy.parquet" )
+df = pl.scan_parquet(r"c:\Users\esthe\OneDrive\Documentos\Esther\Apostilas\analise dados-senac\bolsa_familia\Trab__NovoBolsaFamilia_utf8_lazy.parquet")
 print(df.collect().columns)
 #print(df['UF'] == 'SP')
 
